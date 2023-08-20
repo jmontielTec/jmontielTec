@@ -5,7 +5,7 @@ I'm a "Senior Software Engineer | Full Stack .🅽ET" working in México.
 <hr/>
   
 - 🔭 I’m currently working on *[ITESM](https://tec.mx/)*
-- 🌱 I’m currently learning *.🅽ET, Azure, Angular & Devops*
+- 🌱 I’m currently learning *.🅽ET, Azure, Angular, PostgresSQL & Devops*
 - 📫 How to reach me jmontiel2104@gmail.com
 
 #### Connect with me:
