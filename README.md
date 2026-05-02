@@ -13,7 +13,7 @@
 ## 👨‍💻 About me
 
 - 🔭 I’m currently working at **[Tecnológico de Monterrey / ITESM](https://tec.mx/)**
-- 🌱 I’m currently learning and improving my skills in **.NET, Azure, Angular, Microservices, PostgreSQL and DevOps**
+- 🌱 I’m currently learning and improving my skills in **.NET, Azure, Angular, Clean Architecture, Vertical Slice, EDA, SQL Server and DevOps**
 - 💼 I work mainly with **Full Stack Development, Cloud Architecture, APIs and Enterprise Applications**
 - 🚀 I’m interested in **Clean Architecture, Vertical Slice Architecture, EDA, Microservices, Observability and DevOps**
 - 📫 How to reach me: **jorge.montiel@tec.mx**
