@@ -202,6 +202,28 @@
 
 ---
 
+## 📊 GitHub Activity
+
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jmontieltec&theme=github_dark" 
+    alt="Jorge Montiel GitHub Profile Summary"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jmontieltec&theme=github_dark" 
+    alt="Repositories per Language"
+  />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jmontieltec&theme=github_dark" 
+    alt="Most Commit Language"
+  />
+</p>
+ 
+---
+
 ## 🚀 Current focus
 
 ```text
